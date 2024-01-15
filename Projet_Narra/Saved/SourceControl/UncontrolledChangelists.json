@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/HUD.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/WB_Dialog.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/WB_Dialog.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/S_Dialog.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/DT_Dialog.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/DT_Dialogue.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/S_Dialogue.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/WB_Dialogue.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/BP_DialogueTrigger.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/Dialog/WBP_Dialogue.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/LevelPrototyping/Materials/MI_Collision.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/LevelPrototyping/Materials/M_Solid_2.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/LevelPrototyping/Materials/M_Translucent.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/UI/WBP_HUD.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XF/VTQQVOV9H9IH5XGNKVOJ62.uasset",
+				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Narra/Projet_Narra/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D6/KIN7DBG78MQ28GZSWO3HGF.uasset",
 				"C:/Users/Kevin DIJOUX/Documents/Unreal Projects/Projet_Narra/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
